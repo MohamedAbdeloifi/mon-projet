@@ -1,0 +1,16 @@
+body{
+    min-height: 1200px;
+}
+h1{
+    text-align: center;
+}
+nav{
+    position: sticky;
+    top: 0;
+}
+ul{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: grey;
+}

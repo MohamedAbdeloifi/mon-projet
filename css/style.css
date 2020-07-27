@@ -1,0 +1,41 @@
+thead, tfoot{
+    background-color: lightseagreen;
+}
+tbody{
+    background-color: skyblue;
+}
+figure{
+
+    width: 50%;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+     img{
+    width: 50%;
+    border: 4mm ridge rgba(170, 50, 220, .6);
+}
+#modif-liste ul{
+    list-style-type: none;
+}
+.conteneur-tableau{
+    width: 100%;
+}
+table{
+    width: 80%;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+td:hover {
+    background-color:red;
+}
+body div:nth-child(3){
+    background-color: blue;
+}
+figcaption{
+    margin-top: -20px;
+}
+caption{
+    caption-side: bottom;
+}
